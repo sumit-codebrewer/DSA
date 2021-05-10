@@ -1,4 +1,4 @@
-package hustleFolder8;
+package hustleolder8;
 import java.util.Scanner;
 import java.util.Arrays;
 public class ReverseArrayChallenge {
